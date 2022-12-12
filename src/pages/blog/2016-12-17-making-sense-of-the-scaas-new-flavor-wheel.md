@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Making sense of my hate for coffee
 date: 2016-12-17T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
